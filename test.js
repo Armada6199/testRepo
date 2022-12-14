@@ -1,3 +1,3 @@
-let mohammad = "rami"
+let mohammad = "mohammad"
 
 console.log('sadasdasdsas');
