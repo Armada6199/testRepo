@@ -1,1 +1,1 @@
-let mohammad = "armada"
+let rami = "mastermind"
