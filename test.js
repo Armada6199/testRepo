@@ -1,1 +1,3 @@
-let mohammad = "armada"
+let mohammad = "rami"
+
+console.log('sadasdasdsas');
