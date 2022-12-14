@@ -1,3 +1,1 @@
-let mohammad = "mohammad"
-
-console.log('sadasdasdsas');
+let rami = "mastermind"
